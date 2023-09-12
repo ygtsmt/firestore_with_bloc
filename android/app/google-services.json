@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "573912942740",
+    "project_id": "firestore-with-bloc",
+    "storage_bucket": "firestore-with-bloc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573912942740:android:347769a186fc102f1a4c81",
+        "android_client_info": {
+          "package_name": "com.example.firestore_with_bloc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEQ2jKLzgRyjqRXJRqczg4PQQ9_j6co6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
